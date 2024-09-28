@@ -14,7 +14,7 @@ int main()
 
     cin >> valor;
     div = 2;
-    while (valor % div !=0)
+    while (valor % div !=0 && valor > 1)
     {
         div++;
     }
