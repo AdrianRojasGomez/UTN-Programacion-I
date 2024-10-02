@@ -7,7 +7,6 @@ Indice
 ---
 #### Guia de Ejercicios #1 - [Secuencia](https://github.com/AdrianRojasGomez/UTN-Programacion-I/tree/main/Guia%20Ejercicios%201) 
 > Ejercicios resueltos con Diagrama de flujo y luego desarrollados en C++
->
 
 ---
 
