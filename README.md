@@ -8,4 +8,21 @@ Indice
 #### Guia de Ejercicios #1 - [Secuencia](https://github.com/AdrianRojasGomez/UTN-Programacion-I/tree/main/Guia%20Ejercicios%201) 
 > Ejercicios resueltos con Diagrama de flujo y luego desarrollados en C++
 >
-> 
+
+---
+
+> #### Guia de Ejercicios #2 - [Desicion](https://github.com/AdrianRojasGomez/UTN-Programacion-I/tree/main/Guia%20Ejercicios%202) 
+> Ejercicios resueltos con Diagrama de flujo y luego desarrollados en C++
+
+
+---
+> #### Guia de Ejercicios #3 - [Ciclo Exacto](https://github.com/AdrianRojasGomez/UTN-Programacion-I/tree/main/Guia%20Ejercicios%203) 
+> Ejercicios resueltos en C++
+
+---
+> #### Guia de Ejercicios #4 - [Ciclo Inexacto](https://github.com/AdrianRojasGomez/UTN-Programacion-I/tree/main/Guia%20Ejercicios%204) 
+> Ejercicios resueltos en C++
+
+---
+> #### Guia de Ejercicios #5 - [Ciclos Combinados](https://github.com/AdrianRojasGomez/UTN-Programacion-I/tree/main/Guia%20Ejercicios%205) 
+> Cherry Pick de los ejercicios más complejos resueltos en C++
