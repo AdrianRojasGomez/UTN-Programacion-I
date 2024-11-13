@@ -1,0 +1,244 @@
+# depslib dependency file v1.0
+1729554979 source:c:\users\admin\documents\progra\proyectofinal\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1729554979 source:c:\users\admin\documents\progra\proyectofinal\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1729554979 c:\users\admin\documents\progra\proyectofinal\menu.h
+
+1729548037 source:c:\users\admin\documents\progra\proyectofinal\estadisticas.cpp
+	<iostream>
+
+1729733305 source:c:\users\admin\documents\progra\proyectofinal\juego.cpp
+	<iostream>
+	"juego.h"
+
+1729720608 c:\users\admin\documents\progra\proyectofinal\juego.h
+
+1729548037 source:c:\users\admin\downloads\tpver1.2\proyectofinal\estadisticas.cpp
+	<iostream>
+
+1729886775 source:c:\users\admin\downloads\tpver1.2\proyectofinal\juego.cpp
+	<iostream>
+	"juego.h"
+
+1729886775 c:\users\admin\downloads\tpver1.2\proyectofinal\juego.h
+
+1729554979 source:c:\users\admin\downloads\tpver1.2\proyectofinal\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1729554979 c:\users\admin\downloads\tpver1.2\proyectofinal\menu.h
+
+1729554979 source:c:\users\admin\downloads\tpver1.2\proyectofinal\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1730111006 source:c:\users\admin\downloads\tpv1.3\proyectofinal\estadisticas.cpp
+	<iostream>
+	"estadisticas.h"
+
+1729554979 source:c:\users\admin\downloads\tpv1.3\proyectofinal\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1729554979 c:\users\admin\downloads\tpv1.3\proyectofinal\menu.h
+
+1730105426 source:c:\users\admin\downloads\tpv1.3\proyectofinal\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"estadisticas.h"
+
+1730110102 c:\users\admin\downloads\tpv1.3\proyectofinal\juego.h
+
+1730111030 source:c:\users\admin\downloads\tpv1.3\proyectofinal\juego.cpp
+	<iostream>
+	"juego.h"
+
+1730102484 c:\users\admin\downloads\tpv1.3\proyectofinal\estadisticas.h
+
+1730198801 source:c:\users\admin\downloads\tpver4\proyectofinal\estadisticas.cpp
+	<iostream>
+	"estadisticas.h"
+
+1730102484 c:\users\admin\downloads\tpver4\proyectofinal\estadisticas.h
+
+1730197539 source:c:\users\admin\downloads\tpver4\proyectofinal\juego.cpp
+	<iostream>
+	"juego.h"
+
+1730196827 c:\users\admin\downloads\tpver4\proyectofinal\juego.h
+
+1729554979 source:c:\users\admin\downloads\tpver4\proyectofinal\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1730195985 c:\users\admin\downloads\tpver4\proyectofinal\menu.h
+
+1730198621 source:c:\users\admin\downloads\tpver4\proyectofinal\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"estadisticas.h"
+
+1731039611 source:c:\users\admin\downloads\tpv5 - ver\proyectofinal\estadisticas.cpp
+	<iostream>
+	"estadisticas.h"
+
+1730102484 c:\users\admin\downloads\tpv5 - ver\proyectofinal\estadisticas.h
+
+1731039617 source:c:\users\admin\downloads\tpv5 - ver\proyectofinal\juego.cpp
+	<iostream>
+	"juego.h"
+
+1731039532 c:\users\admin\downloads\tpv5 - ver\proyectofinal\juego.h
+
+1731039532 source:c:\users\admin\downloads\tpv5 - ver\proyectofinal\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1731039807 c:\users\admin\downloads\tpv5 - ver\proyectofinal\menu.h
+
+1731039910 source:c:\users\admin\downloads\tpv5 - ver\proyectofinal\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"estadisticas.h"
+
+1731177156 source:c:\users\admin\downloads\tpv6\proyectofinal\estadisticas.cpp
+	<iostream>
+	"estadisticas.h"
+	"rlutil.h"
+
+1730102484 c:\users\admin\downloads\tpv6\proyectofinal\estadisticas.h
+
+1731179613 source:c:\users\admin\downloads\tpv6\proyectofinal\juego.cpp
+	<iostream>
+	"juego.h"
+	"rlutil.h"
+
+1731169692 c:\users\admin\downloads\tpv6\proyectofinal\juego.h
+
+1731039532 source:c:\users\admin\downloads\tpv6\proyectofinal\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1731039807 c:\users\admin\downloads\tpv6\proyectofinal\menu.h
+
+1731179188 source:c:\users\admin\downloads\tpv6\proyectofinal\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"estadisticas.h"
+	"rlutil.h"
+
+1571584339 c:\users\admin\downloads\tpv6\proyectofinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1731177156 source:c:\users\admin\downloads\tpv7\proyectofinal\estadisticas.cpp
+	<iostream>
+	"estadisticas.h"
+	"rlutil.h"
+
+1730102484 c:\users\admin\downloads\tpv7\proyectofinal\estadisticas.h
+
+1571584339 c:\users\admin\downloads\tpv7\proyectofinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1731361815 source:c:\users\admin\downloads\tpv7\proyectofinal\juego.cpp
+	<iostream>
+	"juego.h"
+	"rlutil.h"
+
+1731169692 c:\users\admin\downloads\tpv7\proyectofinal\juego.h
+
+1731039532 source:c:\users\admin\downloads\tpv7\proyectofinal\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1731359094 c:\users\admin\downloads\tpv7\proyectofinal\menu.h
+
+1731362316 source:c:\users\admin\downloads\tpv7\proyectofinal\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"estadisticas.h"
+	"rlutil.h"
+
+1731177156 source:c:\users\admin\downloads\tpv8\proyectofinal\estadisticas.cpp
+	<iostream>
+	"estadisticas.h"
+	"rlutil.h"
+
+1730102484 c:\users\admin\downloads\tpv8\proyectofinal\estadisticas.h
+
+1571584339 c:\users\admin\downloads\tpv8\proyectofinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1731039532 source:c:\users\admin\downloads\tpv8\proyectofinal\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1731359094 c:\users\admin\downloads\tpv8\proyectofinal\menu.h
+
+1731444167 source:c:\users\admin\downloads\tpv8\proyectofinal\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"estadisticas.h"
+	"rlutil.h"
+
+1731450157 c:\users\admin\downloads\tpv8\proyectofinal\juego.h
+
+1731447680 source:c:\users\admin\downloads\tpv8\proyectofinal\juego.cpp
+	<iostream>
+	"juego.h"
+	"rlutil.h"
+
